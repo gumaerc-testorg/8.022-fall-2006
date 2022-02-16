@@ -2,8 +2,13 @@
 content_type: resource
 description: Lecture notes about Ampere's law in magnetized materials. Prepared in
   LaTeX by James Silva, an MIT student, based upon handwritten notes.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-022-physics-ii-electricity-and-magnetism-fall-2006/bc7f87a7f5ec7bd08d25e66f3c2ea8ad_lecture29.pdf
+file: /media/courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/bc7f87a7f5ec7bd08d25e66f3c2ea8ad_lecture29.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture29.pdf
 uid: bc7f87a7-f5ec-7bd0-8d25-e66f3c2ea8ad

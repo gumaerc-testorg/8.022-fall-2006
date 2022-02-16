@@ -2,8 +2,13 @@
 content_type: resource
 description: Lecture notes about electrostatic boundary conditions and conductors.
   Prepared in LaTeX by James Silva, an MIT student, based upon handwritten notes.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-022-physics-ii-electricity-and-magnetism-fall-2006/663221beaab79399b03888438b0c91ae_lecture11.pdf
+file: /media/courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/663221beaab79399b03888438b0c91ae_lecture11.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture11.pdf
 uid: 663221be-aab7-9399-b038-88438b0c91ae

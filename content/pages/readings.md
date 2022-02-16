@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: bcbf0d9c-e978-965b-8de5-9e770f06b490
 ---
@@ -38,7 +41,7 @@ READINGS
 
 {{< theadclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 ### Week 1
@@ -71,7 +74,7 @@ Electrostatics problem solving
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 
 
 ### Week 2
@@ -138,7 +141,7 @@ Section 1.5.
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 
 
 ### Week 3
@@ -215,7 +218,7 @@ Sections 2.3.1-2.3.5.
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 ### Week 4
@@ -270,7 +273,7 @@ Sections 2.5.1-2.5.4.
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 ### Week 5
@@ -335,7 +338,7 @@ Section 3.3.
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 ### Week 6
@@ -368,7 +371,7 @@ Exam 1
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 
 
 ### Week 7
@@ -447,7 +450,7 @@ Purcell. Chapter 5.
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 
 
 ### Week 8
@@ -516,7 +519,7 @@ Purcell. Chapter 5.
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 
 
 ### Week 9
@@ -593,7 +596,7 @@ Section 5.4.3.
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 
 
 ### Week 10
@@ -660,7 +663,7 @@ Sections 7.1.1-7.1.3.
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 
 
 ### Week 11
@@ -727,7 +730,7 @@ Section 7.2.4.
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 ### Week 12
@@ -784,7 +787,7 @@ Purcell. Chapter 8.
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 
 
 ### Week 13
@@ -859,7 +862,7 @@ Review for exam 3
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 
 
 ### Week 14
@@ -916,7 +919,7 @@ Sections 12.1-12.3.
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 ### Week 15

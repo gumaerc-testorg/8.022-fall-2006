@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 329f8a69-e156-d8be-fb1b-4802c45e5546
 ---
@@ -128,7 +130,7 @@ KEY DATES
 
 {{< theadclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 ### Week 1
@@ -161,7 +163,7 @@ Electrostatics problem solving
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 
 
 ### Week 2
@@ -218,7 +220,7 @@ Dirac delta function, curvilinear coordinates
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 
 
 ### Week 3
@@ -275,7 +277,7 @@ Electric potential; Poisson's equation; Laplace's equation
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 ### Week 4
@@ -320,7 +322,7 @@ Capacitors, work, first and second uniqueness theorems
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 ### Week 5
@@ -365,7 +367,7 @@ Separation of variables
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 ### Week 6
@@ -398,7 +400,7 @@ Exam 1
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 
 
 ### Week 7
@@ -455,7 +457,7 @@ Special relativity (cont.)
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 
 
 ### Week 8
@@ -512,7 +514,7 @@ Problem set 6 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 
 
 ### Week 9
@@ -569,7 +571,7 @@ Magnetization; magnetic properties of materials
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 
 
 ### Week 10
@@ -626,7 +628,7 @@ Bound current; ferromagnetism
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 
 
 ### Week 11
@@ -683,7 +685,7 @@ Alternating current circuits
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 ### Week 12
@@ -728,7 +730,7 @@ Problem set 8 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 
 
 ### Week 13
@@ -785,7 +787,7 @@ Review for exam 3
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 
 
 ### Week 14
@@ -842,7 +844,7 @@ Topics for next week; relativity
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 ### Week 15

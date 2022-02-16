@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 40ce783f-f31e-d750-d8ab-3fb0cc415acb
 ---
@@ -23,7 +26,7 @@ TOPICS
 
 {{< theadclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 ### Week 1
@@ -50,7 +53,7 @@ Electrostatics problem solving ([PDF]({{< baseurl >}}/resources/lec2))
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 
 
 ### Week 2
@@ -95,7 +98,7 @@ Dirac delta function, curvilinear coordinates ([PDF]({{< baseurl >}}/resources/l
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 
 
 ### Week 3
@@ -140,7 +143,7 @@ Electric potential; Poisson's equation; Laplace's equation ([PDF]({{< baseurl >}
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 ### Week 4
@@ -176,7 +179,7 @@ Capacitors, work, first and second uniqueness theorems ([PDF]({{< baseurl >}}/re
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 ### Week 5
@@ -212,7 +215,7 @@ Separation of variables ([PDF]({{< baseurl >}}/resources/lecture16))
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 ### Week 6
@@ -239,7 +242,7 @@ Exam 1
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 
 
 ### Week 7
@@ -284,7 +287,7 @@ Special relativity (cont.) ([PDF]({{< baseurl >}}/resources/lecture20))
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 
 
 ### Week 8
@@ -329,7 +332,7 @@ Biot-Savart law (cont.); Ampere's law ([PDF]({{< baseurl >}}/resources/lecture24
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 
 
 ### Week 9
@@ -374,7 +377,7 @@ Magnetization; magnetic properties of materials ([PDF]({{< baseurl >}}/resources
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 
 
 ### Week 10
@@ -419,7 +422,7 @@ Bound current; ferromagnetism ([PDF]({{< baseurl >}}/resources/lecture30))
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 
 
 ### Week 11
@@ -464,7 +467,7 @@ Alternating current circuits ([PDF]({{< baseurl >}}/resources/lecture34))
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 ### Week 12
@@ -500,7 +503,7 @@ Driven RLC circuits; Ladder impedance ([PDF]({{< baseurl >}}/resources/lecture37
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 
 
 ### Week 13
@@ -545,7 +548,7 @@ Review for exam 3 ([PDF]({{< baseurl >}}/resources/lecturerev2))
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 
 
 ### Week 14
@@ -590,7 +593,7 @@ Topics for next week; relativity ([PDF]({{< baseurl >}}/resources/lecture43))
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 ### Week 15

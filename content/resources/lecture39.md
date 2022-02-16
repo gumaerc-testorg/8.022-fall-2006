@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Lecture notes about Poynting vector and Maxwell stress tensor.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-022-physics-ii-electricity-and-magnetism-fall-2006/f547af4415d9aaa8cff118164220a401_lecture39.pdf
+file: /media/courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/f547af4415d9aaa8cff118164220a401_lecture39.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture39.pdf
 uid: f547af44-15d9-aaa8-cff1-18164220a401

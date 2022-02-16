@@ -2,8 +2,13 @@
 content_type: resource
 description: Lecture notes about Maxwell's equations. Prepared in LaTeX by James Silva,
   an MIT student, based upon handwritten notes.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-022-physics-ii-electricity-and-magnetism-fall-2006/a1416d35c446b9b51d5c8d0d2a64be81_lecture38.pdf
+file: /media/courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/a1416d35c446b9b51d5c8d0d2a64be81_lecture38.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture38.pdf
 uid: a1416d35-c446-b9b5-1d5c-8d0d2a64be81
