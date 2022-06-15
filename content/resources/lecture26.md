@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes about Induction. Prepared in LaTeX by James Silva, an MIT
   student, based upon handwritten notes.
-file: /media/courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/eef93b591795e93378a94ef537d32d80_lecture26.pdf
+file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/eef93b591795e93378a94ef537d32d80_lecture26.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -14,3 +14,5 @@ resourcetype: Document
 title: lecture26.pdf
 uid: eef93b59-1795-e933-78a9-4ef537d32d80
 ---
+Lecture notes about Induction. Prepared in LaTeX by James Silva, an MIT student, based upon handwritten notes.
+

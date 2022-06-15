@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set.
-file: /media/courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/042ce26d7c14fcbbec839dd27c38fb27_pset6.pdf
+file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/042ce26d7c14fcbbec839dd27c38fb27_pset6.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Document
 title: pset6.pdf
 uid: 042ce26d-7c14-fcbb-ec83-9dd27c38fb27
 ---
+Problem set.
+

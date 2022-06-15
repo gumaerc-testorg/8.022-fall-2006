@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Final exam.
-file: /media/courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/f2e028840a27786977d8653a468f6a5c_finalexam.pdf
+file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/f2e028840a27786977d8653a468f6a5c_finalexam.pdf
 file_type: application/pdf
 learning_resource_types:
 - Exams
@@ -13,3 +13,5 @@ resourcetype: Document
 title: finalexam.pdf
 uid: f2e02884-0a27-7869-77d8-653a468f6a5c
 ---
+Final exam.
+
