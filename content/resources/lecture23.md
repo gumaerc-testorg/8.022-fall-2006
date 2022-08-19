@@ -6,6 +6,7 @@ file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/939fbdc34362
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture23.pdf
 uid: 939fbdc3-4362-bac8-866b-a8cb719c5679
 ---
 Lecture notes about cycloidal motion and Biot-Savart law. Prepared in LaTeX by James Silva, an MIT student, based upon handwritten notes.
-

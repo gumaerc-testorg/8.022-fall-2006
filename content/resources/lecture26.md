@@ -6,6 +6,7 @@ file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/eef93b591795
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture26.pdf
 uid: eef93b59-1795-e933-78a9-4ef537d32d80
 ---
 Lecture notes about Induction. Prepared in LaTeX by James Silva, an MIT student, based upon handwritten notes.
-

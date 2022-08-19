@@ -6,6 +6,7 @@ file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/70d1ad4ccf44
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture37.pdf
 uid: 70d1ad4c-cf44-62ea-dfe2-2b2a5cc47737
 ---
 Lecture notes about Driven RLC circuits; Ladder impedance. Prepared in LaTeX by James Silva, an MIT student, based upon handwritten notes.
-

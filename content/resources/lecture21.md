@@ -6,6 +6,7 @@ file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/af960e6b6866
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture21.pdf
 uid: af960e6b-6866-7c85-2028-f21c0b81f931
 ---
 Lecture notes about electric fields and force. Prepared in LaTeX by James Silva, an MIT student, based upon handwritten notes.
-

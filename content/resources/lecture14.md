@@ -6,6 +6,7 @@ file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/584556e9306d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture14.pdf
 uid: 584556e9-306d-76af-eb41-caf3851e0bbc
 ---
 Lecture notes about the method of images and multipole expansion. Prepared in LaTeX by James Silva, an MIT student, based upon handwritten notes.
-

@@ -6,6 +6,7 @@ file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/930aea1f0f17
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture45.pdf
 uid: 930aea1f-0f17-c9a7-52a9-c1c0cf940ffc
 ---
 Lecture notes about advanced topics in relativity; quantum. Prepared in LaTeX by James Silva, an MIT student, based upon handwritten notes.
-

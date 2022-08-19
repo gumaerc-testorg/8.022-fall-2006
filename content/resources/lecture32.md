@@ -7,6 +7,7 @@ file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/3208983b0da3
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lecture32.pdf
 uid: 3208983b-0da3-f94c-e5f6-0337dc32ec91
 ---
 Lecture notes about about RC circuits, undriven RC circuits, and Thevenin?s Theorem (Helmholtz). Prepared in LaTeX by James Silva, an MIT student, based upon handwritten notes.
-

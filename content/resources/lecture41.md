@@ -6,6 +6,7 @@ file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/fbb879d21572
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture41.pdf
 uid: fbb879d2-1572-bcb6-87c3-10e4f062543d
 ---
 Lecture notes about electromagnetic waves. Prepared in LaTeX by James Silva, an MIT student, based upon handwritten notes.
-

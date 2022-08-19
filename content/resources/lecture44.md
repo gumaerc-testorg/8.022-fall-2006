@@ -6,6 +6,7 @@ file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/7e7cef7bf2dd
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture44.pdf
 uid: 7e7cef7b-f2dd-a28e-9013-4c970314fe56
 ---
 Lecture notes about Faraday tensor; Maxwell; General relativity. Prepared in LaTeX by James Silva, an MIT student, based upon handwritten notes.
-

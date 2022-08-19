@@ -5,6 +5,7 @@ file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/ecd418f44bc8
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture43.pdf
 uid: ecd418f4-4bc8-dcdb-33cd-fae02bd09eca
 ---
 Lecture notes about topics for the next lecture and relativity.
-

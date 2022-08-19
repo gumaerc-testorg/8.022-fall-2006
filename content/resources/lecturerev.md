@@ -5,6 +5,7 @@ file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/c39a0e10fb31
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecturerev.pdf
 uid: c39a0e10-fb31-f086-2449-4ca69102e82e
 ---
 Lecture notes with a review of materials for the second course exam.
-

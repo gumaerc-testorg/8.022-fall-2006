@@ -6,6 +6,7 @@ file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/5224afce7621
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture30.pdf
 uid: 5224afce-7621-16f4-3c83-4a041851d7cf
 ---
 Lecture notes about bound current and ferromagnetism. Prepared in LaTeX by James Silva, an MIT student, based upon handwritten notes.
-

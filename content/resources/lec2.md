@@ -6,6 +6,7 @@ file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/5ffc58c02121
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec2.pdf
 uid: 5ffc58c0-2121-f42f-5478-b48120b33603
 ---
 Lecture notes about electrostatics problem solving, prepared in LaTeX by James Silva, an MIT student, based upon handwritten notes.
-

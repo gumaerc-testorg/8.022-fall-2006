@@ -6,6 +6,7 @@ file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/694a829f5076
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture15.pdf
 uid: 694a829f-5076-3303-787f-73dcb7c0eb04
 ---
 Lecture notes about parallel plate capacitor and electric dipole. Prepared in LaTeX by James Silva, an MIT student, based upon handwritten notes.
-

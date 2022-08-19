@@ -6,6 +6,7 @@ file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/171bc076d00e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture40.pdf
 uid: 171bc076-d00e-89eb-27a6-07b758b12888
 ---
 Lecture notes about conservation of momentum and Minkowski force. Prepared in LaTeX by James Silva, an MIT student, based upon handwritten notes.
-

@@ -7,6 +7,7 @@ file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/6d597152ffb6
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lecture7.pdf
 uid: 6d597152-ffb6-d466-2fbf-e9845a99181a
 ---
 Lecture notes about more curvilinear coordinates: div and grad in spherical coordinates; Gauss's law. Prepared in LaTeX by James Silva, an MIT student, based upon handwritten notes.
-

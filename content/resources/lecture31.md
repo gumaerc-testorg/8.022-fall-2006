@@ -6,6 +6,7 @@ file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/e49b7fd4e52b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture31.pdf
 uid: e49b7fd4-e52b-71db-3c70-8f1cc63187d0
 ---
 Lecture notes about Circuits and Macroscopic Ohm?s Law, prepared in LaTeX by James Silva, an MIT student, based upon handwritten notes.
-

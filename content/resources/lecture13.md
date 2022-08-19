@@ -7,6 +7,7 @@ file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/74765dbf6feb
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lecture13.pdf
 uid: 74765dbf-6feb-bc35-4340-33f8f5c18af5
 ---
 Lecture notes about Capacitors, work, and the first and second uniqueness theorems. Prepared in LaTeX by James Silva, an MIT student, based upon handwritten notes.
-

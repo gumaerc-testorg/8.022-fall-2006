@@ -6,6 +6,7 @@ file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/289b6980a1e7
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture28.pdf
 uid: 289b6980-a1e7-7865-b568-d028d34d9aa6
 ---
 Lecture notes about magnetization and magnetic properties of materials. Prepared in LaTeX by James Silva, an MIT student, based upon handwritten notes.
-

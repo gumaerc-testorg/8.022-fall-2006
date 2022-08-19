@@ -6,6 +6,7 @@ file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/248cd83e0bf4
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture34.pdf
 uid: 248cd83e-0bf4-09a4-a435-276da3b5c85d
 ---
 Lecture notes about Alternating current circuits. Prepared in LaTeX by James Silva, an MIT student, based upon handwritten notes.
-

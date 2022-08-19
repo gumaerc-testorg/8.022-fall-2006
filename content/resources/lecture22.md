@@ -6,6 +6,7 @@ file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/30a30374a429
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture22.pdf
 uid: 30a30374-a429-3bbd-39a0-02ef76f3464f
 ---
 Lecture notes about magnetic fields and Lorenz force law. Prepared in LaTeX by James Silva, an MIT student, based upon handwritten notes.
-

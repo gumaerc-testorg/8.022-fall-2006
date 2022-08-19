@@ -6,6 +6,7 @@ file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/7b9540680326
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec3.pdf
 uid: 7b954068-0326-0ec5-8b69-81613d89883a
 ---
 Lecture notes a review of vectors, prepared in LaTeX by James Silva, an MIT student, based upon handwritten notes.
-

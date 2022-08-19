@@ -6,6 +6,7 @@ file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/79a3a1582f31
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture19.pdf
 uid: 79a3a158-2f31-cbad-c1a1-1a420c25ca05
 ---
 Lecture notes about special relativity. Prepared in LaTeX by James Silva, an MIT student, based upon handwritten notes.
-
