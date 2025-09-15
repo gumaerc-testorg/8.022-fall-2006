@@ -2,7 +2,8 @@
 content_type: resource
 description: Lecture notes about Dirac delta function, curvilinear coordinates. Prepared
   in LaTeX by James Silva, an MIT student, based upon handwritten notes.
-file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/7486f42ced9fc4852b43ee4866c195d6_lecture6.pdf
+file: /ol-ocw-studio-app/courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/7486f42ced9fc4852b43ee4866c195d6_lecture6.pdf
+file_size: 86426
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,7 +2,8 @@
 content_type: resource
 description: Lecture notes about advanced topics in relativity; Schrodinger equation.
   Prepared in LaTeX by James Silva, an MIT student, based upon handwritten notes.
-file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/2fd44d692b576d939d878079b8f6bc88_lecture46.pdf
+file: /ol-ocw-studio-app/courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/2fd44d692b576d939d878079b8f6bc88_lecture46.pdf
+file_size: 74655
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

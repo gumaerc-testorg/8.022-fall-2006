@@ -2,7 +2,8 @@
 content_type: resource
 description: Lecture notes about Biot-Savart law and Ampere's law. Prepared in LaTeX
   by James Silva, an MIT student, based upon handwritten notes.
-file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/521e5cf51d57e7cb36ebdd8d5c4f8b3e_lecture24.pdf
+file: /ol-ocw-studio-app/courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/521e5cf51d57e7cb36ebdd8d5c4f8b3e_lecture24.pdf
+file_size: 104635
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

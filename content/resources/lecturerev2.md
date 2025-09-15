@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Lecture notes with a review of materials for the third course exam.
-file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/c507c5415372eccb98115afa35d2bcd3_lecturerev2.pdf
+file: /ol-ocw-studio-app/courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/c507c5415372eccb98115afa35d2bcd3_lecturerev2.pdf
+file_size: 26001
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

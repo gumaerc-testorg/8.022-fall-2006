@@ -2,7 +2,8 @@
 content_type: resource
 description: Lecture notes about electromagnetic waves. Prepared in LaTeX by James
   Silva, an MIT student, based upon handwritten notes.
-file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/fbb879d21572bcb687c310e4f062543d_lecture41.pdf
+file: /ol-ocw-studio-app/courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/fbb879d21572bcb687c310e4f062543d_lecture41.pdf
+file_size: 98759
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

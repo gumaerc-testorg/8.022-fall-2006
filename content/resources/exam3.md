@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Exam.
-file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/7ef11ec231e6e98c94d0b3fa5387f43c_exam3.pdf
+file: /ol-ocw-studio-app/courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/7ef11ec231e6e98c94d0b3fa5387f43c_exam3.pdf
+file_size: 103909
 file_type: application/pdf
 learning_resource_types:
 - Exams

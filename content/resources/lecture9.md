@@ -3,7 +3,8 @@ content_type: resource
 description: 'Lecture notes about applications of Gauss''s law: Line charge, plane
   charge. Prepared in LaTeX by James Silva, an MIT student, based upon handwritten
   notes.'
-file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/e38d7bf4213c83a11fd083a591b8efa8_lecture9.pdf
+file: /ol-ocw-studio-app/courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/e38d7bf4213c83a11fd083a591b8efa8_lecture9.pdf
+file_size: 98068
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

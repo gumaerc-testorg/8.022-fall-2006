@@ -2,7 +2,8 @@
 content_type: resource
 description: Lecture notes about magnetostatics and electric currents. Prepared in
   LaTeX by James Silva, an MIT student, based upon handwritten notes.
-file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/7269c8180723dba544d5ed6f6a382f6e_lecture18.pdf
+file: /ol-ocw-studio-app/courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/7269c8180723dba544d5ed6f6a382f6e_lecture18.pdf
+file_size: 77850
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

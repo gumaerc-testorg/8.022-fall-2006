@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Final exam.
-file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/f2e028840a27786977d8653a468f6a5c_finalexam.pdf
+file: /ol-ocw-studio-app/courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/f2e028840a27786977d8653a468f6a5c_finalexam.pdf
+file_size: 134773
 file_type: application/pdf
 learning_resource_types:
 - Exams

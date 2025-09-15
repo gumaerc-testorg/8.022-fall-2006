@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Problem set.
-file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/1000d06ea041704c04767c8bfb10d944_pset4.pdf
+file: /ol-ocw-studio-app/courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/1000d06ea041704c04767c8bfb10d944_pset4.pdf
+file_size: 33949
 file_type: application/pdf
 learning_resource_types:
 - Assignments

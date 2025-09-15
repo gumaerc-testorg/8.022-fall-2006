@@ -2,7 +2,8 @@
 content_type: resource
 description: Lecture notes about capacitors, dielectrics, and work. Prepared in LaTeX
   by James Silva, an MIT student, based upon handwritten notes.
-file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/a8024aef530ced6f3219d360262eaef6_lecture12.pdf
+file: /ol-ocw-studio-app/courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/a8024aef530ced6f3219d360262eaef6_lecture12.pdf
+file_size: 89676
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,7 +2,8 @@
 content_type: resource
 description: Lecture notes about special relativity. Prepared in LaTeX by James Silva,
   an MIT student, based upon handwritten notes.
-file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/3c78598db5d712186a8bab38b0e73f65_lecture20.pdf
+file: /ol-ocw-studio-app/courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/3c78598db5d712186a8bab38b0e73f65_lecture20.pdf
+file_size: 83376
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

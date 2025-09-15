@@ -2,7 +2,8 @@
 content_type: resource
 description: Lecture notes about Inductance. Prepared in LaTeX by James Silva, an
   MIT student, based upon handwritten notes.
-file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/9ed060e4e112d56bfad0689977b8762f_lecture35.pdf
+file: /ol-ocw-studio-app/courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/9ed060e4e112d56bfad0689977b8762f_lecture35.pdf
+file_size: 103432
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

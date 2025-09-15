@@ -2,7 +2,8 @@
 content_type: resource
 description: Lecture notes about Faraday tensor; Maxwell; General relativity. Prepared
   in LaTeX by James Silva, an MIT student, based upon handwritten notes.
-file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/7e7cef7bf2dda28e90134c970314fe56_lecture44.pdf
+file: /ol-ocw-studio-app/courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/7e7cef7bf2dda28e90134c970314fe56_lecture44.pdf
+file_size: 87766
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

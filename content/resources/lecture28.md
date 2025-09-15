@@ -2,7 +2,8 @@
 content_type: resource
 description: Lecture notes about magnetization and magnetic properties of materials.
   Prepared in LaTeX by James Silva, an MIT student, based upon handwritten notes.
-file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/289b6980a1e77865b568d028d34d9aa6_lecture28.pdf
+file: /ol-ocw-studio-app/courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/289b6980a1e77865b568d028d34d9aa6_lecture28.pdf
+file_size: 111082
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

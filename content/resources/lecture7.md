@@ -3,7 +3,8 @@ content_type: resource
 description: 'Lecture notes about more curvilinear coordinates: div and grad in spherical
   coordinates; Gauss''s law. Prepared in LaTeX by James Silva, an MIT student, based
   upon handwritten notes.'
-file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/6d597152ffb6d4662fbfe9845a99181a_lecture7.pdf
+file: /ol-ocw-studio-app/courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/6d597152ffb6d4662fbfe9845a99181a_lecture7.pdf
+file_size: 114381
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
