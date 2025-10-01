@@ -24,7 +24,7 @@
   },
   "course_title": "Physics II: Electricity and Magnetism",
   "hide_download": false,
-  "course_description": "This course runs parallel to 8.02, but assumes that students have some knowledge of vector calculus. The class introduces Maxwell's equations, in both differential and integral form, along with electrostatic and magnetic vector potential, and the properties of dielectrics and magnetic materials.\n\nThis class was taught by an undergraduate in the [Experimental Study Group](http://esg.mit.edu/) (ESG). Student instructors are paired with ESG faculty members, who advise and oversee the students' teaching efforts.",
+  "course_description": "This course runs parallel to 8.02, but assumes that students have some knowledge of vector calculus. The class introduces Maxwell's equations, in both differential and integral form, along with electrostatic and magnetic vector potential, and the properties of dielectrics and magnetic materials.\n\nThis class was taught by an undergraduate in the {{% resource_link \"80c69226-bb57-43d0-a79c-abc7f8096827\" \"Experimental Study Group\" %}} (ESG). Student instructors are paired with ESG faculty members, who advise and oversee the students' teaching efforts.",
   "department_numbers": [
     "8",
     "ES"
